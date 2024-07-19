@@ -24,7 +24,7 @@ export const Models: IModelInfo[] = [
   {
     platform: 'openai',
     type: 'openai',
-    models: ['gpt-4o']
+    models: ['gpt-4o-mini']
   },
   {
     platform: 'baidu',
